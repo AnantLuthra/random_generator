@@ -8,3 +8,17 @@ This project is a part of This project is a part of [Global Hack Week (GHW)-INIT
 ```
 git clone https://github.com/AnantLuthra/random_generator.git
 ```
+
+#### Usage
+
+- First import this class from ```random_gr.py``` file then for generating random number follow:-
+
+```py
+from random_gr import RandomGr
+
+random_value = RandomGr.random_generate() # This returns a random number
+
+print(random_value) # Random value will be printed.
+```
+
+- But for using this class like this you have to make sure that this file is in the same folder that your current file is in.
