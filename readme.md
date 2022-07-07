@@ -5,4 +5,4 @@ This project is a part of This project is a part of [Global Hack Week (GHW)-INIT
 
 ### Clone this repository
 
-```git clone 
+```git clone https://github.com/AnantLuthra/random_generator.git```
